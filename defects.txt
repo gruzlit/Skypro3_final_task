@@ -2,20 +2,36 @@
 
 Файл index.html.
 1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
-2. ...
-3. ...
-4. ...
+2.  <p class="subtitle">Тетирование WEB-приложений</p> Должно быть Тестирование.
+3.  Командная строка Windos.Должно быть Windows.
+4.  <hr> Должно быть </div>.
+5. </p>  Должен быть тег <div>
+6. <p> <br> </p>. Лишние теги.
+7.  <center><img class="center animated rollIn" src="img/ava.png" alt="avatar"></center. Заменен аватар src="img/bg.jpg"
+
 
 Файл cmd.html.
-1. ...
-2. ...
-3. ...
+1.Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024". 
+2. <h3 id="rt-3">Системная информация</h3> Вмксто rt-3 должно быть .rt-2.
+3. <li>DATE – Выводит или устанавливает системное время</li> Вместо DATE должно быть TIME.
+4. <li>TIME – Выводит или устанавливает текущую дату</li> Вместо TIME должно быть DATE .
+5. <li>DIR – Изменить каталог</li> Неверное описание . Должно быть - Отображение файлов и папок в текущем каталоге.
+6. <li>CD – Отображение файлов и папок в текущем каталоге</li>. Должно быть изменить каталог.
+7. <li>MAKEDIR – Создать папку</li> Верная  строка в Windows mkdir
+8. <link rel="stylesheet" type="text/css" href="../css/style.css">. ссылка должна быть  href="css/style.css">.
+9. <link rel="stylesheet" type="text/css" href="../css/font-awesome.css">. ссылка должна быть  href="css/font-awesome.css"
+10. <link rel="shortcut icon" href="../img/fav.ico" type="image/x-icon">.  ссылка должна быть href="img/fav.ico
+
 
 Файл mac.html.
-1. ...
-2. ...
+1. <title>Терминал MaOS</title> Должно быть MaсOS.
+2. mv mkdir эти команды надо поменять местами.
+3. <a href="../index.html">Вернуться на главную</a> Должно быть "index.html"
 
 Файл git.html
-1. ...
-2. ...
-3. ...
+1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
+2. <a href="mac.html">Вернуся на главную</a> Должно быть index.html.
+3. <a href="index.html">Вернуся на главную</a> В слове Вернуся пропущено "ть". 
+4. <link rel="stylesheet" type="text/css" href="../css/style.css">. ссылка должна быть  href="css/style.css">.
+5.<link rel="stylesheet" type="text/css" href="../css/font-awesome.css">. ссылка должна быть  href="css/font-awesome.css"
+6. <link rel="shortcut icon" href="../img/fav.ico" type="image/x-icon">.  ссылка должна быть href="img/fav.ico
