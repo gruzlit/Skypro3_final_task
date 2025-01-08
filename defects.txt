@@ -8,6 +8,7 @@
 5. </p>  Должен быть тег <div>
 6. <p> <br> </p>. Лишние теги.
 7.  <center><img class="center animated rollIn" src="img/ava.png" alt="avatar"></center. Заменен аватар src="img/bg.jpg"
+8. На главной странице поправлены переходы на подстраницы.
 
 
 Файл cmd.html.
